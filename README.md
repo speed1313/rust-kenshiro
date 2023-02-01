@@ -11,5 +11,5 @@ fn main() {
 ```
 
 # Demo
-![demo](https://raw.github.com/wiki/speed1313/rust-kenshiro/movie.gif)
+![demo](https://raw.github.com/wiki/speed1313/rust-kenshiro/images/movie.gif)
 
