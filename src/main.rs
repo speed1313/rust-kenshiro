@@ -13,5 +13,5 @@ fn kenshiro(){
         io::stdout().flush().unwrap();
         sleep(Duration::from_millis(100));
     }
-    println!("\r\nお前はもう死んでいる....");
+    println!("\rお前はもう死んでいる....");
 }
